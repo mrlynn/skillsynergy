@@ -4,6 +4,8 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org/)
 [![Material UI](https://img.shields.io/badge/Material%20UI-Ready-blue.svg)](https://mui.com/)
 
+![SkillSynergy Logo](https://raw.githubusercontent.com/mrlynn/skillsynergy/main/skillsynergy-circle-color.png)
+
 SkillSynergy is a sample application demonstrating the capabilities of [mongonext.com](https://mongonext.com). It showcases how to build a modern developer matchmaking platform using MongoDB Atlas, Next.js, and Material UI.
 
 ## 🚀 Features
